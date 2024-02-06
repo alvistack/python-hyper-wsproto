@@ -18,3 +18,5 @@ compliance/reports
 compliance/auto-tests-server-config.json
 compliance/auto-tests-client-config.json
 compliance/autobahntestsuite-venv/
+
+.pybuild/
