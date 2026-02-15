@@ -1,0 +1,5 @@
+python-wsproto source: file-without-copyright-information
+python-wsproto source: no-debian-changes
+python-wsproto source: source-contains-prebuilt-windows-binary
+python-wsproto source: source-is-missing
+python-wsproto source: source-package-encodes-python-version
